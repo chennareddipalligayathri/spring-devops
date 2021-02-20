@@ -24,7 +24,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 
 <scm>
   <connection>scm:git:git@github.com:chennareddipalligayathri/spring-devops.git</connection>
-  <developerConnection>scm:git:git@github.com:chennareddipalli/spring-devops.git</developerConnection>
+  <developerConnection>scm:git:git@github.com:chennareddipalligayathri/spring-devops.git</developerConnection>
   <url>git@github.com:chennareddipalligayathri/spring-devops.git</url>
   <tag>HEAD</tag>
 </scm>
